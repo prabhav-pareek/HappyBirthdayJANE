@@ -14,7 +14,8 @@ body {
 }
 
 .page1 {
-    background-color: #f07f7f;
+    background-color: #452528;
+    color: white;
 }
 
 .page2 {
@@ -31,12 +32,12 @@ body {
 }
 
 h1 {
-    color: #4a4a4a;
+    color: inherit;
     margin-bottom: 15px;
 }
 
 p {
-    color: #4a4a4a;
+    color: inherit;
     margin-top: 10px;
 }
 
